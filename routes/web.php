@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-// payments
+// payments 2
 Route::get('/', function () {
     return view('welcome');
 });
